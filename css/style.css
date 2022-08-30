@@ -13,6 +13,15 @@
     line-height: 50%;
 }
 
+.logo{
+    vertical-align: middle;
+}
+
+h1{
+    font-size: 35px;
+    vertical-align: middle;
+}
+
 h2{
     font-size: 25px;
     font-weight: 700;
@@ -70,13 +79,13 @@ hr {
   }
 
 
-#container-newtask{
+#container-task{
     background-color: #fff;
     padding: 20px 0px 20px 40px;
 }
 
 .frecciatask{
-    font-size: 16px;
+    font-size: 10px;
 }
 
 .paragrafo{
@@ -85,6 +94,51 @@ hr {
 
 .tagazzurro{
     background-color: #47ACF1;
+    border-radius: 6px;
+    color: #fff;
+    padding: 5px;
+    font-size: 10px;
+    margin: 0px 0px 0px 6px;
+}
+
+.tagviola{
+    background-color: #9C72E4;
+    border-radius: 6px;
+    color: #fff;
+    padding: 5px;
+    font-size: 10px;
+    margin: 0px 0px 0px 6px;
+}
+
+.tagverde{
+    background-color: #64BFA9;
+    border-radius: 6px;
+    color: #fff;
+    padding: 5px;
+    font-size: 10px;
+    margin: 0px 0px 0px 6px;
+}
+
+.tagarancione{
+    background-color: #F29E33;
+    border-radius: 6px;
+    color: #fff;
+    padding: 5px;
+    font-size: 10px;
+    margin: 0px 0px 0px 6px;
+}
+
+.tagrosa{
+    background-color: #D863A1;
+    border-radius: 6px;
+    color: #fff;
+    padding: 5px;
+    font-size: 10px;
+    margin: 0px 0px 0px 6px;
+}
+
+.tagverdeoliva{
+    background-color: #B0C925;
     border-radius: 6px;
     color: #fff;
     padding: 5px;
