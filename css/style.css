@@ -14,5 +14,50 @@
 }
 main{
     background-color: #F6F8F9;
-    padding: 20px;
+    height: 100vh;
+    border-radius: 20px;
+    padding: 40px 100px 20px 100px;
 }
+
+#container{
+    background-color: #fff;
+    padding: 20px 0px 20px 40px;
+}
+
+.button-task{
+    background-color: #47ACF1;
+    border: transparent;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: #fff;
+}
+
+.button-task:hover{
+    background-color: transparent;
+    border: grey solid 1px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: grey;
+}
+
+.button-section{
+    background-color: transparent;
+    border: grey solid 1px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: grey;
+}
+
+.button-section:hover{
+    background-color: #47ACF1;
+    border: transparent;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: #fff;
+}
+
+hr {
+    height: 1px;
+    background-color: grey;
+    margin-top: 10px;
+  }
