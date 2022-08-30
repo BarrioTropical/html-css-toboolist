@@ -12,6 +12,13 @@
     font-weight: 700;
     line-height: 50%;
 }
+
+h2{
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 50%;
+}
+
 main{
     background-color: #F6F8F9;
     height: 100vh;
@@ -61,3 +68,9 @@ hr {
     background-color: grey;
     margin-top: 10px;
   }
+
+
+#container-newtask{
+    background-color: #fff;
+    padding: 20px 0px 20px 40px;
+}
